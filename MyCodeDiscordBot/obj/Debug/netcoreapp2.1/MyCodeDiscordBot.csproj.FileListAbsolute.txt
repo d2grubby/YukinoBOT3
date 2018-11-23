@@ -1,0 +1,11 @@
+D:\Games Things\Discord Bot\MyCodeDiscordBot\MyCodeDiscordBot\bin\Debug\netcoreapp2.1\MyCodeDiscordBot.deps.json
+D:\Games Things\Discord Bot\MyCodeDiscordBot\MyCodeDiscordBot\bin\Debug\netcoreapp2.1\MyCodeDiscordBot.runtimeconfig.json
+D:\Games Things\Discord Bot\MyCodeDiscordBot\MyCodeDiscordBot\bin\Debug\netcoreapp2.1\MyCodeDiscordBot.runtimeconfig.dev.json
+D:\Games Things\Discord Bot\MyCodeDiscordBot\MyCodeDiscordBot\bin\Debug\netcoreapp2.1\MyCodeDiscordBot.dll
+D:\Games Things\Discord Bot\MyCodeDiscordBot\MyCodeDiscordBot\obj\Debug\netcoreapp2.1\MyCodeDiscordBot.csprojAssemblyReference.cache
+D:\Games Things\Discord Bot\MyCodeDiscordBot\MyCodeDiscordBot\obj\Debug\netcoreapp2.1\MyCodeDiscordBot.csproj.CoreCompileInputs.cache
+D:\Games Things\Discord Bot\MyCodeDiscordBot\MyCodeDiscordBot\obj\Debug\netcoreapp2.1\MyCodeDiscordBot.AssemblyInfoInputs.cache
+D:\Games Things\Discord Bot\MyCodeDiscordBot\MyCodeDiscordBot\obj\Debug\netcoreapp2.1\MyCodeDiscordBot.AssemblyInfo.cs
+D:\Games Things\Discord Bot\MyCodeDiscordBot\MyCodeDiscordBot\bin\Debug\netcoreapp2.1\MyCodeDiscordBot.pdb
+D:\Games Things\Discord Bot\MyCodeDiscordBot\MyCodeDiscordBot\obj\Debug\netcoreapp2.1\MyCodeDiscordBot.dll
+D:\Games Things\Discord Bot\MyCodeDiscordBot\MyCodeDiscordBot\obj\Debug\netcoreapp2.1\MyCodeDiscordBot.pdb
